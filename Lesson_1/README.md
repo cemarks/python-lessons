@@ -3,17 +3,17 @@
 ## Objectives
 
 1. Understand computer architecture
-  - Hardware (processor, motherboard, memory, drives)
-  - Software (Operating system & applications)
-1. Understand the roles of the operating system.
-1. Understand file/folder structure and be able to navigate folders and work with files.
-1. Understand how file permissions work.
-1. Learn basic shell commands (e.g., `ls`, `mkdir`, `cd`).
-1. Understand what a 'development environment' is.
-1. Familiarize with git, [GitHub](https://github.com), and the basics of version control.
-1. Describe what Python is.
-1. Understand the concepts of Python modules and open source code.
-1. Describe a Python virtual environment and create and activate one.
+    - Hardware (processor, motherboard, memory, drives)
+    - Software (Operating system & applications)
+2. Understand the roles of the operating system.
+3. Understand file/folder structure and be able to navigate folders and work with files.
+4. Understand how file permissions work.
+5. Learn basic shell commands (e.g., `ls`, `mkdir`, `cd`).
+6. Understand what a 'development environment' is.
+7. Familiarize with git, [GitHub](https://github.com), and the basics of version control.
+8. Describe what Python is.
+9. Understand the concepts of Python modules and open source code.
+10. Describe a Python virtual environment and create and activate one.
 
 ## Key terms
 
@@ -30,6 +30,7 @@
 * Program
 * Text Editor
 * Version Control
+* Virtual Environment
 
 ## Activities
 
